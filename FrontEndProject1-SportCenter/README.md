@@ -14,7 +14,7 @@
 
 **Live Demo**
 
-Check out the live demo of this project on Netlify: [Sport Center Live Demo]()
+Check out the live demo of this project on Netlify: [https://662eaf0ca1df6c10a338b0d6--golden-smakager-400951.netlify.app]()
 
 
 
